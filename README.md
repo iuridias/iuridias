@@ -5,4 +5,4 @@
 - 💻  Microsoft Office Specialist
 - 📱 Apaixonado por tecnologia
 
-![Frase do yoda em programação](https://cdn.rawgit.com/iuridias/iuridias/master/img/yoda.svg)
+<img src="https://cdn.rawgit.com/iuridias/iuridias/master/img/yoda.svg" alt="Frase do yoda em programação" width="250"/>
