@@ -1,4 +1,3 @@
-
 # Olá devs, me chamo Iuri Dias! 👋
 Tenho 25 anos, moro no Rio de Janeiro, e atualmente estou focado na transição de carreira para desenvolvedor.
 
@@ -26,6 +25,9 @@ Tenho 25 anos, moro no Rio de Janeiro, e atualmente estou focado na transição 
 </div>
 
 ## Estatísticas
-<div>  <a href="https://github.com/iuridias">  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuridias&layout=compact&langs_count=7&theme=calm"/>  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuridias&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>  </div>
+<div>  <a href="https://github.com/iuridias">  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuridias&layout=compact&langs_count=7&theme=calm"/>  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=iuridias&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>  </div>
 
 ![snake gif](https://github.com/iuridias/iuridias/blob/output/github-contribution-grid-snake.svg)
+--
+#### E como disse um mestre em uma galáxia muito, muito distante:
+<img  src="https://raw.githubusercontent.com/iuridias/iuridias/master/img/yoda.svg"  alt="Frase do yoda em programação" width="600"/>
