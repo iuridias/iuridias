@@ -9,7 +9,7 @@ Tenho 25 anos, moro no Rio de Janeiro, e atualmente estou focado na transição 
 
 ## Confira meu portfólio:
 <div>
-  <a href="https://iuridias.github.io" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://iuridias.github.io" target="_blank"><img src="https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
 
 ### Ferramentas e tecnologias:
