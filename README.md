@@ -1,4 +1,4 @@
-# Olá devs, me chamo Iuri Dias! 👋
+# Olá, eu sou o Iuri Dias! 👋
 Tenho 25 anos, moro no Rio de Janeiro, e atualmente estou focado na transição de carreira para desenvolvedor.
 
 - 📚 Estudante Full Stack
