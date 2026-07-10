@@ -1,8 +1,8 @@
 # Olá, eu sou o Iuri Dias! 👋
-28 anos. Rio de Janeiro, Brasil
+29 anos. Rio de Janeiro, Brasil
 
-- 📚 Estudante Full Stack
-- 🧰 Analista de Produto
+- 📚 Full Stack em desenvolvimento
+- 🧰 Analista de Implantação
 - 💻 Microsoft Office Specialist
 - 🖥️ Apaixonado por tecnologia
 - 🎮 Gamer nas horas vagas
@@ -34,9 +34,3 @@
 <a  href="https://instagram.com/iuriidias"  target="_blank"><img  src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"  target="_blank"></a>
 <a  href = "mailto:iuridias.mw@gmail.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank"></a> <a  href="https://br.linkedin.com/in/iuridias-"  target="_blank"><img  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
 </div>
-
-## Estatísticas
-<div>  <a href="https://github.com/iuridias">  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuridias&layout=compact&langs_count=7&theme=calm"/> </div>
---
-#### E como disse um mestre em uma galáxia muito, muito distante:
-<img  src="https://raw.githubusercontent.com/iuridias/iuridias/master/img/yoda.svg"  alt="Frase do yoda em programação" width="600"/>
